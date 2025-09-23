@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial';
+    background-color: rgb(253, 118, 118);
+    color: skyblue;
+    margin: 0;
+    padding: 20px;
+    postion: relative;
+    font-size:25px;
+}
+
+img{
+    position: absolute;
+    top:20px;
+    right:20px;
+    width:14%;
+    border-radius: 10px;
+    border: 2px solid #e97c7c;
+    box-shadow: 0 4px 12px rgb(154, 158, 160);
+
+}
+
+a{
+    color: skyblue
+}
+
+h1{
+    color: rgb(119, 10, 61)
+    border-bottom: 2px skyblue ;
+    padding-bottom : 5px;
+    margin-top : 30px;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: skyblue;
+}
+
+ul{
+    margin: 20px;
+    list-style-type: disc;
+    padding-left:20px;
+}
+
+li{
+    margin: 8px 0;
+}
